@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+}
+
+.container {
+  width: 83%;
+  margin: 0 auto;
+}
+
+.main-title {
+  font-size: 170px;
+  text-align: center;
+  margin: 0 25px;
+  font-family: "Amatic SC", cursive;
+}
+
+.menu-container {
+  height: 64px;
+  list-style-type: none;
+  text-decoration: none;
+  padding-left: 217px;
+  margin-top: 25px;
+}
+
+.menu-item {
+  float: left;
+  font-size: 24px;
+  padding: 20px;
+}
+
+.menu1:hover {
+  border-bottom: 2px solid black;
+}
+
+.menu2:hover {
+  border-bottom: 2px solid black;
+}
+
+.menu3:hover {
+  border-bottom: 2px solid black;
+}
+
+.menu4:hover {
+  border-bottom: 2px solid black;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.article-container {
+  margin-top: 30px;
+}
+
+.img-container {
+  display: block;
+  margin: 0 auto;
+}
+
+.crepe-container {
+  width: 100%;
+}
+
+.article-title {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-family: "Amatic SC", cursive;
+  text-transform: uppercase;
+}
+
+.flex-container {
+  display: flex;
+  width: 100%;
+  height: 400px;
+  margin-top: 100px;
+}
+
+.recipe-container {
+  width: 70%;
+}
+
+.block-line {
+  width: 62%;
+  height: 2px;
+  background-color: #000000;
+  margin-left: 0;
+}
+
+.article-name {
+  font-size: 28px;
+  margin-top: 10px;
+}
+
+.icon-container {
+  display: flex;
+  margin-top: 20px;
+}
+
+.icon-chef {
+  width: 60%;
+}
+
+.recipe {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 11px;
+}
+
+.aside-container {
+  background-color: darkred;
+  width: 30%;
+  padding: 60px;
+  height: 345px;
+}
+
+.aside-title {
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.icon-ingredient {
+  margin-top: -20px;
+}
+
+.ingredient {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 31px;
+  text-transform: uppercase;
+  padding-top: 30px;
+}
+
+.recipe-text {
+  font-size: 12px;
+  line-height: 28px;
+  margin-right: 40px;
+  margin-top: 28px;
+}
+
+.andouille {
+  margin-top: 106px;
+}
+
+.andouille-container {
+  width: 100%;
+}
+
+.seconde {
+  width: 508px;
+}
+
+.background {
+  background-color: bisque;
+  height: 550px;
+}
+
+.creations {
+  margin-top: 90px;
+}
+
+.right {
+  padding-left: 73px;
+  padding-top: 30px;
+}
+
+.ghoat {
+  margin-top: 80px;
+}
+
+.left {
+  height: 430px;
+  background-color: darkseagreen;
+}
+
+.color-winner {
+  background-color: khaki;
+  height: 800px;
+}
+
+.winners-title {
+  margin-left: 345px;
+}
+
+.winners {
+  margin-top: 70px;
+  padding-top: 50px;
+}
+
+.flex-article {
+  display: flex;
+  width: 100%;
+  padding-left: 110px;
+  margin-top: 80px;
+}
+
+.bresse {
+  width: 300px;
+}
+
+.cepes {
+  width: 300px;
+}
+
+.forestiere {
+  width: 300px;
+}
